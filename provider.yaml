@@ -11,16 +11,19 @@ arguments:
     description: Configuration options
     placeholder: input your configuration
     required: true
+    default: ""
   - name: link_selector
     type: text
     description: Configuration options
     placeholder: input your configuration
     required: true
+    default: ""
   - name: title_selector
     type: text
     description: Configuration options
     placeholder: input your configuration
     required: true
+    default: ""
   - name: link_type
     type: text
     description: Configuration options
