@@ -42,5 +42,11 @@ arguments:
     placeholder: input your configuration
     required: true
     default: "true"
+  - name: downloader
+    type: text
+    description: Configuration options
+    placeholder: input your configuration
+    required: true
+    default: transmission
 
 binary: https://raw.githubusercontent.com/qingchoulove/ks_provider_example/main/example_provider
